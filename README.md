@@ -10,6 +10,7 @@ You'll find the work on my profile falls into three categories:
 
 I also spend a lot of time working on repositories on [my lab group's page](https://github.com/DynamicGenetics), where you'll find more work on webapps, and with [Data Ethics Club](https://github.com/very-good-science/data-ethics-club) where you'll find our lovely community of ethics-inclined data people! 
 
-Please feel free to email me if you'd like to chat, or you can find me on Twitter!  
-💌 ninadicara@protonmail.com  
-🐦 @ninadicara  
+Please feel free to email me, find me on Twitter or have a look at my website.  
+💌   ninadicara@protonmail.com  
+🐦   [@ninadicara](https://twitter.com/ninadicara)  
+🌐   [ninadicara.co.uk](https://ninadicara.co.uk)
