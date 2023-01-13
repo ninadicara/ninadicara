@@ -1,6 +1,6 @@
 ### Hello! ✨
 
-I'm Nina (she/her), a PhD student at the University of Bristol.  
+I'm Nina (she/her), a post doc at the University of Bristol.  
 My research is in the field of mental health data science, which uses data science methods to understand mental health better.  
 
 You'll find the work on my profile falls into three categories:  
